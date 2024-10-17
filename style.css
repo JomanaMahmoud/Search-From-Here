@@ -1,0 +1,10 @@
+html{
+    background-color:azure;
+}
+header{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    padding-top: 1rem;
+    font-size: 20px;
+    color: rgb(88, 25, 146);
+}
