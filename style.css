@@ -36,7 +36,7 @@
     margin-bottom: 20px;
   }
   
-  
+  /* Box Styles */
   .box {
     display: flex;
     flex-direction: column;
